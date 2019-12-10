@@ -1,1 +1,1 @@
-pod "check-info" deleted
+0.0.17
