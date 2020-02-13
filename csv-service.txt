@@ -1,1 +1,1 @@
-0.0.32
+pod "check-info" deleted
